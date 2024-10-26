@@ -21,7 +21,11 @@ Este análisis es importante porque conocer las principales causas de muerte ayu
 
 Usar aprendizaje automático para clasificar estas causas puede automatizar y mejorar la comprensión de estos patrones, ayudando a crear políticas de salud más específicas y efectivas.
 *****************************************************************************
-
+Preguntas de Investigación o Hipótesis
+Para llevar a cabo este análisis de clasificación mediante técnicas de aprendizaje automático, definimos las siguientes preguntas de investigación y posibles hipótesis que queremos explorar.
+   1. ¿Qué factores determinan la causa de muerte de una persona joven (menor de 40 años) en comparación con una persona de la tercera edad (mayor de 65 años)?
+   2. ¿Qué variables (como grupo de edad, género, y año) tienen un mayor impacto en la clasificación de la causa de muerte de una persona?
+   3. ¿Es posible predecir la causa de muerte de un individuo con base en variables como edad, género, y tendencias históricas?
 
 Project Organization
 ------------
