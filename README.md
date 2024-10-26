@@ -1,7 +1,27 @@
-Mortalidad, segun las principales causas de muerte,grupos de edad y sexo.
-==============================
+Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial.
 
-Identificar las causas de muerte por edad y sexo.
+Politécnico Superior Malvinas Argentinas.
+
+Materia: Aprendizaje Automático
+Docente: Lic. Mirabete Martin
+****************************************************************************
+Alumna: Barrios, Yanina Soledad
+
+Nombre del Proyecto: Mortalidad, según las principales causas de muerte, grupos de edad y sexo.
+*****************************************************************************
+Objetivo:
+
+Utilizando técnicas de Aprendizaje Automático, desarrollar un modelo de clasificación que identifique las principales causas de mortalidad en la provincia de Tierra del Fuego basándose en variables demográficas, como edad, género y año.
+******************************************************************************
+Contexto y Relevancia del Problema
+
+La información analizada proviene de datos sobre mortalidad en Tierra del Fuego, Argentina, durante los años 2005-2019. Este conjunto de datos incluye tasas de mortalidad, número de fallecimientos y principales causas de muerte, variando según edad, género y otros factores.
+
+Este análisis es importante porque conocer las principales causas de muerte ayuda a planificar políticas de salud, asignar recursos y crear campañas de prevención y tratamiento más efectivas. En un contexto de recursos limitados, entender cómo varían estas causas en distintos grupos permite a las autoridades de salud actuar de manera más precisa.
+
+Usar aprendizaje automático para clasificar estas causas puede automatizar y mejorar la comprensión de estos patrones, ayudando a crear políticas de salud más específicas y efectivas.
+*****************************************************************************
+
 
 Project Organization
 ------------
