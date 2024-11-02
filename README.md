@@ -1,9 +1,7 @@
 
 ![Banner](https://github.com/user-attachments/assets/77a0db91-5813-49ad-8acb-8fbc59ec15a0)
 
-<div align="center">
-    <img src="[URL_DE_TU_BANNER](https://github.com/user-attachments/assets/77a0db91-5813-49ad-8acb-8fbc59ec15a0)" alt="Banner">
-</div>
+
 
 Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial.
 
