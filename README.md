@@ -42,7 +42,7 @@ Para llevar a cabo este análisis de clasificación mediante técnicas de aprend
 *****************************************************************************
 **Autora:** Barrios, Yanina Soledad
 
-![Perfil](https://github.com/Yansol23/Mortalidad_Segun_las_Principales_Causas_de_Muerte-Grupos_de_Edad_y_Sexo/blob/main/reports/figures/Perfil.JPG)
+![Perfil](https://github.com/Yansol23/Mortalidad_Segun_las_Principales_Causas_de_Muerte-Grupos_de_Edad_y_Sexo/blob/main/reports/figures/Perfil.png)
 
 
 
