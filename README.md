@@ -1,15 +1,11 @@
 <div align="center">
   <h2 align="center">
-   Mortalidad, según las principales causas de muerte, grupos de edad y sexo     
+   Mortalidad, según las principales causas de muerte, grupos de edad y sexo.     
     
   </h2>
 </div>
 
 ![Mortalidad](https://github.com/Yansol23/Mortalidad_Segun_las_Principales_Causas_de_Muerte-Grupos_de_Edad_y_Sexo/blob/main/reports/figures/Mortalidad.png)
-
-
-
-
 
 
 ## Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial.
@@ -22,12 +18,6 @@
 
 **Año:** 2024
 *****************************************************************************
-
-
-
-
-
-
 
 **Objetivo:**
 
