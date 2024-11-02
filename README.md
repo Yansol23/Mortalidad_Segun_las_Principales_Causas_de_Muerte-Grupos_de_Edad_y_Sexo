@@ -45,7 +45,6 @@ Para llevar a cabo este análisis de clasificación mediante técnicas de aprend
 ![Perfil](https://github.com/Yansol23/Mortalidad_Segun_las_Principales_Causas_de_Muerte-Grupos_de_Edad_y_Sexo/blob/main/reports/figures/Perfil.png)
 
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=edfedo" alt="Vistas de perfil" />
   <a href="https://opensource.org/licenses/MIT">
