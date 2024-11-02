@@ -1,7 +1,39 @@
-Mortalidad, segun las principales causas de muerte,grupos de edad y sexo.
-==============================
 
-Identificar las causas de muerte por edad y sexo.
+![Banner](https://github.com/user-attachments/assets/77a0db91-5813-49ad-8acb-8fbc59ec15a0)
+
+******************************
+
+
+
+
+Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial.
+
+Politécnico Superior Malvinas Argentinas.
+
+Materia: Aprendizaje Automático
+Docente: Lic. Mirabete Martin
+****************************************************************************
+Alumna: Barrios, Yanina Soledad
+
+Nombre del Proyecto: Mortalidad, según las principales causas de muerte, grupos de edad y sexo.
+*****************************************************************************
+Objetivo:
+
+Utilizando técnicas de Aprendizaje Automático, desarrollar un modelo de clasificación que identifique las principales causas de mortalidad en la provincia de Tierra del Fuego basándose en variables demográficas, como edad, género y año.
+******************************************************************************
+Contexto y Relevancia del Problema
+
+La información analizada proviene de datos sobre mortalidad en Tierra del Fuego, Argentina, durante los años 2005-2019. Este conjunto de datos incluye tasas de mortalidad, número de fallecimientos y principales causas de muerte, variando según edad, género y otros factores.
+
+Este análisis es importante porque conocer las principales causas de muerte ayuda a planificar políticas de salud, asignar recursos y crear campañas de prevención y tratamiento más efectivas. En un contexto de recursos limitados, entender cómo varían estas causas en distintos grupos permite a las autoridades de salud actuar de manera más precisa.
+
+Usar aprendizaje automático para clasificar estas causas puede automatizar y mejorar la comprensión de estos patrones, ayudando a crear políticas de salud más específicas y efectivas.
+*****************************************************************************
+Preguntas de Investigación o Hipótesis
+Para llevar a cabo este análisis de clasificación mediante técnicas de aprendizaje automático, definimos las siguientes preguntas de investigación y posibles hipótesis que queremos explorar.
+   1. ¿Qué factores determinan la causa de muerte de una persona joven (menor de 40 años) en comparación con una persona de la tercera edad (mayor de 65 años)?
+   2. ¿Qué variables (como grupo de edad, género, y año) tienen un mayor impacto en la clasificación de la causa de muerte de una persona?
+   3. ¿Es posible predecir la causa de muerte de un individuo con base en variables como edad, género, y tendencias históricas?
 
 Project Organization
 ------------
