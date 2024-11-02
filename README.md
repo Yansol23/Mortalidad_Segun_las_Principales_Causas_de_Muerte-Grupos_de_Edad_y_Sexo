@@ -10,6 +10,7 @@
 
 ## Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial.
 
+
 **Politécnico Superior Malvinas Argentinas.**
 
 **Materia:** Aprendizaje Automático
