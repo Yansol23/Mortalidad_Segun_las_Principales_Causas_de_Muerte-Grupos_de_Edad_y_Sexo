@@ -1,33 +1,26 @@
 
-![Banner](https://github.com/user-attachments/assets/77a0db91-5813-49ad-8acb-8fbc59ec15a0)
-
-******************************
-
-![Mortalidad](https://github.com/user-attachments/assets/bf9315b1-b38e-493c-ab6f-8f04f894126b)
-<<<<<<< HEAD
-=======
-
-
->>>>>>> d70eac2aa7a72d25d182c34ade5f181d5ff412fb
-
-
-reports/figures/Mortalidad.png
+![Mortalidad](https://github.com/Yansol23/Mortalidad_Segun_las_Principales_Causas_de_Muerte-Grupos_de_Edad_y_Sexo/blob/main/reports/figures/Mortalidad.png)
 
 
 
 
 
-Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial.
 
-Politécnico Superior Malvinas Argentinas.
+## Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial.
 
-Materia: Aprendizaje Automático
-Docente: Lic. Mirabete Martin
-****************************************************************************
-Alumna: Barrios, Yanina Soledad
+**Politécnico Superior Malvinas Argentinas.**
 
-Nombre del Proyecto: Mortalidad, según las principales causas de muerte, grupos de edad y sexo.
+**Materia:** Aprendizaje Automático
+
+**Docente:** Lic. Mirabete Martin
 *****************************************************************************
+
+
+**Nombre del Proyecto:** Mortalidad, según las principales causas de muerte, grupos de edad y sexo.
+
+
+*****************************************************************************
+
 Objetivo:
 
 Utilizando técnicas de Aprendizaje Automático, desarrollar un modelo de clasificación que identifique las principales causas de mortalidad en la provincia de Tierra del Fuego basándose en variables demográficas, como edad, género y año.
@@ -45,6 +38,23 @@ Para llevar a cabo este análisis de clasificación mediante técnicas de aprend
    1. ¿Qué factores determinan la causa de muerte de una persona joven (menor de 40 años) en comparación con una persona de la tercera edad (mayor de 65 años)?
    2. ¿Qué variables (como grupo de edad, género, y año) tienen un mayor impacto en la clasificación de la causa de muerte de una persona?
    3. ¿Es posible predecir la causa de muerte de un individuo con base en variables como edad, género, y tendencias históricas?
+
+*****************************************************************************
+**Autora:** Barrios, Yanina Soledad
+
+
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=edfedo" alt="Vistas de perfil" />
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" />
+  </a>
+</p>
+
+
+
 
 Project Organization
 ------------
