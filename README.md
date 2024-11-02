@@ -14,6 +14,9 @@
 reports/figures/Mortalidad.png
 
 
+
+
+
 Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial.
 
 Politécnico Superior Malvinas Argentinas.
