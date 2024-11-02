@@ -3,7 +3,10 @@
 
 ******************************
 
+![Mortalidad](https://github.com/user-attachments/assets/bf9315b1-b38e-493c-ab6f-8f04f894126b)
 
+
+reports/figures/Mortalidad.png
 
 
 Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial.
